@@ -1,0 +1,1217 @@
+Oct 02 16:48:46 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Oct 02 16:48:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 16:48:46 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 16:48:46 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Oct 02 16:48:46 symfony [info] {sfPHPView} Render "/var/www/greed/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Oct 02 16:48:46 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Oct 02 16:48:46 symfony [info] {sfPHPView} Render "/var/www/greed/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Oct 02 16:48:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 16:48:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 16:48:46 symfony [info] {sfWebDebugLogger} Configuration 155.76 ms (9)
+Oct 02 16:48:46 symfony [info] {sfWebDebugLogger} Factories 111.02 ms (1)
+Oct 02 16:48:46 symfony [info] {sfWebDebugLogger} Action "default/index" 0.05 ms (1)
+Oct 02 16:48:46 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.35 ms (1)
+Oct 02 16:48:46 symfony [info] {sfWebResponse} Send content (28230 o)
+Oct 02 16:49:49 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Oct 02 16:49:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 16:49:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 16:49:49 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Oct 02 16:49:49 symfony [info] {sfPHPView} Render "/var/www/greed/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Oct 02 16:49:49 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Oct 02 16:49:49 symfony [info] {sfPHPView} Render "/var/www/greed/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Oct 02 16:49:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 16:49:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 16:49:49 symfony [info] {sfWebDebugLogger} Configuration 0.75 ms (9)
+Oct 02 16:49:49 symfony [info] {sfWebDebugLogger} Factories 23.04 ms (1)
+Oct 02 16:49:49 symfony [info] {sfWebDebugLogger} Action "default/index" 0.09 ms (1)
+Oct 02 16:49:49 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.01 ms (1)
+Oct 02 16:49:49 symfony [info] {sfWebResponse} Send content (28258 o)
+Oct 02 16:50:17 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Oct 02 16:50:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 16:50:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 16:50:17 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Oct 02 16:50:17 symfony [info] {sfPHPView} Render "/var/www/greed/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Oct 02 16:50:17 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Oct 02 16:50:17 symfony [info] {sfPHPView} Render "/var/www/greed/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Oct 02 16:50:17 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 16:50:17 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 16:50:17 symfony [info] {sfWebDebugLogger} Configuration 1.19 ms (9)
+Oct 02 16:50:17 symfony [info] {sfWebDebugLogger} Factories 26.66 ms (1)
+Oct 02 16:50:17 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Oct 02 16:50:17 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 9.12 ms (1)
+Oct 02 16:50:18 symfony [info] {sfWebResponse} Send content (28258 o)
+Oct 02 16:50:20 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Oct 02 16:50:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 16:50:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 16:50:20 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Oct 02 16:50:20 symfony [info] {sfPHPView} Render "/var/www/greed/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Oct 02 16:50:20 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Oct 02 16:50:20 symfony [info] {sfPHPView} Render "/var/www/greed/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Oct 02 16:50:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 16:50:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 16:50:20 symfony [info] {sfWebDebugLogger} Configuration 0.92 ms (9)
+Oct 02 16:50:20 symfony [info] {sfWebDebugLogger} Factories 26.08 ms (1)
+Oct 02 16:50:20 symfony [info] {sfWebDebugLogger} Action "default/index" 0.09 ms (1)
+Oct 02 16:50:20 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.07 ms (1)
+Oct 02 16:50:20 symfony [info] {sfWebResponse} Send content (28257 o)
+Oct 02 16:50:23 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 16:50:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 16:50:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 16:50:23 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 16:53:06 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 16:53:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 16:53:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 16:53:06 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 16:53:06 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 16:53:06 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 16:53:06 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 16:53:06 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 16:53:06 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 16:53:06 symfony [info] {sfWebDebugLogger} Configuration 6.88 ms (10)
+Oct 02 16:53:06 symfony [info] {sfWebDebugLogger} Factories 24.21 ms (1)
+Oct 02 16:53:06 symfony [info] {sfWebDebugLogger} Action "game/result" 0.09 ms (1)
+Oct 02 16:53:06 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 13.01 ms (1)
+Oct 02 16:53:06 symfony [info] {sfWebResponse} Send content (26564 o)
+Oct 02 17:12:45 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 17:12:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:12:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:12:45 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 17:12:45 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 17:12:45 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:12:45 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:12:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 17:12:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 17:12:45 symfony [info] {sfWebDebugLogger} Configuration 24.89 ms (11)
+Oct 02 17:12:45 symfony [info] {sfWebDebugLogger} Factories 30.56 ms (1)
+Oct 02 17:12:45 symfony [info] {sfWebDebugLogger} Action "game/index" 29.99 ms (1)
+Oct 02 17:12:45 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 7.56 ms (1)
+Oct 02 17:12:45 symfony [info] {sfWebResponse} Send content (27087 o)
+Oct 02 17:16:43 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 17:16:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:16:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:16:43 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 17:16:43 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 17:16:43 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:16:43 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:16:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 17:16:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 17:16:43 symfony [info] {sfWebDebugLogger} Configuration 0.88 ms (9)
+Oct 02 17:16:43 symfony [info] {sfWebDebugLogger} Factories 27.19 ms (1)
+Oct 02 17:16:43 symfony [info] {sfWebDebugLogger} Action "game/index" 3.93 ms (1)
+Oct 02 17:16:43 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 7.08 ms (1)
+Oct 02 17:16:43 symfony [info] {sfWebResponse} Send content (27113 o)
+Oct 02 17:16:47 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 17:16:47 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:16:47 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:16:47 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 17:16:47 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 17:16:47 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:16:47 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:16:47 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 17:16:47 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 17:16:47 symfony [info] {sfWebDebugLogger} Configuration 0.90 ms (9)
+Oct 02 17:16:47 symfony [info] {sfWebDebugLogger} Factories 25.91 ms (1)
+Oct 02 17:16:47 symfony [info] {sfWebDebugLogger} Action "game/result" 0.13 ms (1)
+Oct 02 17:16:47 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 5.83 ms (1)
+Oct 02 17:16:47 symfony [info] {sfWebResponse} Send content (26616 o)
+Oct 02 17:16:50 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 17:16:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:16:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:16:50 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 17:16:50 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 17:16:50 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:16:50 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:16:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 17:16:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 17:16:50 symfony [info] {sfWebDebugLogger} Configuration 0.60 ms (9)
+Oct 02 17:16:50 symfony [info] {sfWebDebugLogger} Factories 17.06 ms (1)
+Oct 02 17:16:50 symfony [info] {sfWebDebugLogger} Action "game/result" 0.07 ms (1)
+Oct 02 17:16:50 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 4.80 ms (1)
+Oct 02 17:16:50 symfony [info] {sfWebResponse} Send content (26649 o)
+Oct 02 17:17:01 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 17:17:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:17:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:17:01 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 17:17:01 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game"
+Oct 02 17:17:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 17:17:01 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game"
+Oct 02 17:17:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 17:17:01 symfony [info] {sfWebDebugLogger} Configuration 0.58 ms (8)
+Oct 02 17:17:01 symfony [info] {sfWebDebugLogger} Factories 18.09 ms (1)
+Oct 02 17:17:01 symfony [info] {sfWebDebugLogger} Action "game/result" 0.51 ms (1)
+Oct 02 17:17:01 symfony [info] {sfWebResponse} Send content (111 o)
+Oct 02 17:17:01 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 17:17:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:17:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:17:01 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 17:17:01 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 17:17:01 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:17:01 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:17:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 17:17:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 17:17:01 symfony [info] {sfWebDebugLogger} Configuration 0.95 ms (9)
+Oct 02 17:17:01 symfony [info] {sfWebDebugLogger} Factories 18.19 ms (1)
+Oct 02 17:17:01 symfony [info] {sfWebDebugLogger} Action "game/index" 4.22 ms (1)
+Oct 02 17:17:01 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 7.52 ms (1)
+Oct 02 17:17:01 symfony [info] {sfWebResponse} Send content (27114 o)
+Oct 02 17:17:05 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 17:17:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:17:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:17:05 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 17:17:05 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game"
+Oct 02 17:17:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 17:17:05 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game"
+Oct 02 17:17:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 17:17:05 symfony [info] {sfWebDebugLogger} Configuration 0.79 ms (8)
+Oct 02 17:17:05 symfony [info] {sfWebDebugLogger} Factories 26.40 ms (1)
+Oct 02 17:17:05 symfony [info] {sfWebDebugLogger} Action "game/result" 0.43 ms (1)
+Oct 02 17:17:05 symfony [info] {sfWebResponse} Send content (111 o)
+Oct 02 17:17:05 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 17:17:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:17:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:17:05 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 17:17:05 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 17:17:05 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:17:05 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:17:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 17:17:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 17:17:05 symfony [info] {sfWebDebugLogger} Configuration 1.00 ms (9)
+Oct 02 17:17:05 symfony [info] {sfWebDebugLogger} Factories 25.77 ms (1)
+Oct 02 17:17:05 symfony [info] {sfWebDebugLogger} Action "game/index" 2.56 ms (1)
+Oct 02 17:17:05 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 6.54 ms (1)
+Oct 02 17:17:05 symfony [info] {sfWebResponse} Send content (27114 o)
+Oct 02 17:21:53 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 17:21:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:21:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:21:53 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 17:21:53 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 17:21:53 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:21:53 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:21:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 17:21:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 17:21:53 symfony [info] {sfWebDebugLogger} Configuration 0.74 ms (9)
+Oct 02 17:21:53 symfony [info] {sfWebDebugLogger} Factories 17.24 ms (1)
+Oct 02 17:21:53 symfony [info] {sfWebDebugLogger} Action "game/index" 3.59 ms (1)
+Oct 02 17:21:53 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 4.82 ms (1)
+Oct 02 17:21:53 symfony [info] {sfWebResponse} Send content (27313 o)
+Oct 02 17:25:33 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 17:25:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:25:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:25:33 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 17:25:33 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 17:25:33 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 17:25:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:25:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:25:33 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 17:25:33 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 17:27:29 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 17:27:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:27:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:27:29 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 17:27:29 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 17:27:29 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:27:29 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:27:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 17:27:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 17:27:29 symfony [info] {sfWebDebugLogger} Configuration 0.69 ms (9)
+Oct 02 17:27:29 symfony [info] {sfWebDebugLogger} Factories 18.10 ms (1)
+Oct 02 17:27:29 symfony [info] {sfWebDebugLogger} Action "game/index" 3.14 ms (1)
+Oct 02 17:27:29 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 6.84 ms (1)
+Oct 02 17:27:29 symfony [info] {sfWebResponse} Send content (27840 o)
+Oct 02 17:27:37 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 17:27:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:27:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:27:37 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 17:27:37 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 17:27:37 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:27:37 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:27:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 17:27:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 17:27:37 symfony [info] {sfWebDebugLogger} Configuration 0.91 ms (9)
+Oct 02 17:27:37 symfony [info] {sfWebDebugLogger} Factories 28.10 ms (1)
+Oct 02 17:27:37 symfony [info] {sfWebDebugLogger} Action "game/index" 5.87 ms (1)
+Oct 02 17:27:37 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 7.33 ms (1)
+Oct 02 17:27:37 symfony [info] {sfWebResponse} Send content (27807 o)
+Oct 02 17:32:01 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 17:32:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:32:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:32:01 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 17:32:01 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 17:32:01 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:32:01 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:32:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 17:32:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 17:32:01 symfony [info] {sfWebDebugLogger} Configuration 0.72 ms (9)
+Oct 02 17:32:01 symfony [info] {sfWebDebugLogger} Factories 17.27 ms (1)
+Oct 02 17:32:01 symfony [info] {sfWebDebugLogger} Action "game/index" 3.27 ms (1)
+Oct 02 17:32:01 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 6.92 ms (1)
+Oct 02 17:32:01 symfony [info] {sfWebResponse} Send content (27724 o)
+Oct 02 17:32:38 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 17:32:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:32:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:32:38 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 17:32:38 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 17:32:38 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:32:38 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:32:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 17:32:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 17:32:38 symfony [info] {sfWebDebugLogger} Configuration 0.78 ms (9)
+Oct 02 17:32:38 symfony [info] {sfWebDebugLogger} Factories 18.71 ms (1)
+Oct 02 17:32:38 symfony [info] {sfWebDebugLogger} Action "game/index" 3.14 ms (1)
+Oct 02 17:32:38 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 9.66 ms (1)
+Oct 02 17:32:38 symfony [info] {sfWebResponse} Send content (27765 o)
+Oct 02 17:32:41 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 17:32:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:32:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:32:41 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 17:32:41 symfony [err] {sfException} Call to undefined method DiceForm::play.
+Oct 02 17:32:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Oct 02 17:32:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 17:32:41 symfony [info] {sfWebDebugLogger} Configuration 0.59 ms (8)
+Oct 02 17:32:41 symfony [info] {sfWebDebugLogger} Factories 20.98 ms (1)
+Oct 02 17:32:41 symfony [info] {sfWebDebugLogger} Action "game/index" 32.55 ms (1)
+Oct 02 17:33:24 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 17:33:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:33:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:33:24 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 17:33:24 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 17:33:24 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:33:24 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:33:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 17:33:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 17:33:24 symfony [info] {sfWebDebugLogger} Configuration 0.57 ms (9)
+Oct 02 17:33:24 symfony [info] {sfWebDebugLogger} Factories 19.05 ms (1)
+Oct 02 17:33:24 symfony [info] {sfWebDebugLogger} Action "game/index" 3.63 ms (1)
+Oct 02 17:33:24 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 6.67 ms (1)
+Oct 02 17:33:24 symfony [info] {sfWebResponse} Send content (27733 o)
+Oct 02 17:33:26 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 17:33:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:33:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:33:26 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 17:33:26 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game/result"
+Oct 02 17:33:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 17:33:26 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game/result"
+Oct 02 17:33:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 17:33:26 symfony [info] {sfWebDebugLogger} Configuration 0.65 ms (8)
+Oct 02 17:33:26 symfony [info] {sfWebDebugLogger} Factories 17.74 ms (1)
+Oct 02 17:33:26 symfony [info] {sfWebDebugLogger} Action "game/index" 5.24 ms (1)
+Oct 02 17:33:26 symfony [info] {sfWebResponse} Send content (118 o)
+Oct 02 17:33:26 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 17:33:26 symfony [info] {myUser} Flag old flash messages ("result")
+Oct 02 17:33:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 17:33:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 17:33:26 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 17:33:26 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 17:33:26 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:33:26 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 17:33:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 17:33:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 17:33:26 symfony [info] {sfWebDebugLogger} Configuration 0.66 ms (9)
+Oct 02 17:33:26 symfony [info] {sfWebDebugLogger} Factories 21.04 ms (1)
+Oct 02 17:33:26 symfony [info] {sfWebDebugLogger} Action "game/result" 0.11 ms (1)
+Oct 02 17:33:26 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 4.99 ms (1)
+Oct 02 17:33:26 symfony [info] {sfWebResponse} Send content (27309 o)
+Oct 02 17:33:26 symfony [info] {myUser} Remove old flash messages ("result")
+Oct 02 22:48:26 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 22:48:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:48:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:48:26 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 22:48:26 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 22:48:26 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:48:26 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:48:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 22:48:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:48:26 symfony [info] {sfWebDebugLogger} Configuration 0.82 ms (9)
+Oct 02 22:48:26 symfony [info] {sfWebDebugLogger} Factories 107.51 ms (1)
+Oct 02 22:48:26 symfony [info] {sfWebDebugLogger} Action "game/index" 49.30 ms (1)
+Oct 02 22:48:26 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 66.57 ms (1)
+Oct 02 22:48:26 symfony [info] {sfWebResponse} Send content (27451 o)
+Oct 02 22:49:04 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 22:49:04 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:49:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:49:04 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 22:49:04 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game/result"
+Oct 02 22:49:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 22:49:04 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game/result"
+Oct 02 22:49:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:49:04 symfony [info] {sfWebDebugLogger} Configuration 130.43 ms (10)
+Oct 02 22:49:04 symfony [info] {sfWebDebugLogger} Factories 18.31 ms (1)
+Oct 02 22:49:04 symfony [info] {sfWebDebugLogger} Action "game/index" 148.42 ms (1)
+Oct 02 22:49:04 symfony [info] {sfWebResponse} Send content (118 o)
+Oct 02 22:49:04 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 22:49:04 symfony [info] {myUser} Flag old flash messages ("result")
+Oct 02 22:49:04 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:49:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:49:04 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 22:49:04 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 22:49:04 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:49:04 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:49:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 22:49:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:49:04 symfony [info] {sfWebDebugLogger} Configuration 0.93 ms (9)
+Oct 02 22:49:04 symfony [info] {sfWebDebugLogger} Factories 17.43 ms (1)
+Oct 02 22:49:04 symfony [info] {sfWebDebugLogger} Action "game/result" 0.12 ms (1)
+Oct 02 22:49:04 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 7.77 ms (1)
+Oct 02 22:49:04 symfony [info] {sfWebResponse} Send content (29596 o)
+Oct 02 22:49:04 symfony [info] {myUser} Remove old flash messages ("result")
+Oct 02 22:49:07 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 22:49:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:49:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:49:07 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 22:49:07 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game"
+Oct 02 22:49:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 22:49:07 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game"
+Oct 02 22:49:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:49:07 symfony [info] {sfWebDebugLogger} Configuration 0.87 ms (8)
+Oct 02 22:49:07 symfony [info] {sfWebDebugLogger} Factories 22.41 ms (1)
+Oct 02 22:49:07 symfony [info] {sfWebDebugLogger} Action "game/result" 0.68 ms (1)
+Oct 02 22:49:07 symfony [info] {sfWebResponse} Send content (111 o)
+Oct 02 22:49:07 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 22:49:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:49:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:49:07 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 22:49:07 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 22:49:07 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:49:07 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:49:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 22:49:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:49:07 symfony [info] {sfWebDebugLogger} Configuration 0.60 ms (9)
+Oct 02 22:49:07 symfony [info] {sfWebDebugLogger} Factories 21.14 ms (1)
+Oct 02 22:49:07 symfony [info] {sfWebDebugLogger} Action "game/index" 2.93 ms (1)
+Oct 02 22:49:07 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 7.20 ms (1)
+Oct 02 22:49:07 symfony [info] {sfWebResponse} Send content (27938 o)
+Oct 02 22:49:53 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 22:49:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:49:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:49:53 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 22:49:53 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game"
+Oct 02 22:49:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 22:49:53 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game"
+Oct 02 22:49:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:49:53 symfony [info] {sfWebDebugLogger} Configuration 0.68 ms (8)
+Oct 02 22:49:53 symfony [info] {sfWebDebugLogger} Factories 19.15 ms (1)
+Oct 02 22:49:53 symfony [info] {sfWebDebugLogger} Action "game/result" 0.49 ms (1)
+Oct 02 22:49:53 symfony [info] {sfWebResponse} Send content (111 o)
+Oct 02 22:49:53 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 22:49:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:49:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:49:53 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 22:49:53 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 22:49:53 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:49:53 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:49:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 22:49:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:49:53 symfony [info] {sfWebDebugLogger} Configuration 0.73 ms (9)
+Oct 02 22:49:53 symfony [info] {sfWebDebugLogger} Factories 18.82 ms (1)
+Oct 02 22:49:53 symfony [info] {sfWebDebugLogger} Action "game/index" 3.19 ms (1)
+Oct 02 22:49:53 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 7.73 ms (1)
+Oct 02 22:49:53 symfony [info] {sfWebResponse} Send content (27938 o)
+Oct 02 22:54:48 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 22:54:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:54:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:54:48 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 22:54:48 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 22:54:48 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:54:48 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:54:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 22:54:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:54:48 symfony [info] {sfWebDebugLogger} Configuration 0.62 ms (9)
+Oct 02 22:54:48 symfony [info] {sfWebDebugLogger} Factories 17.18 ms (1)
+Oct 02 22:54:48 symfony [info] {sfWebDebugLogger} Action "game/index" 3.27 ms (1)
+Oct 02 22:54:48 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 6.17 ms (1)
+Oct 02 22:54:48 symfony [info] {sfWebResponse} Send content (27869 o)
+Oct 02 22:54:49 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 22:54:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:54:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:54:49 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 22:54:49 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game/result"
+Oct 02 22:54:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 22:54:49 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game/result"
+Oct 02 22:54:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:54:49 symfony [info] {sfWebDebugLogger} Configuration 0.50 ms (8)
+Oct 02 22:54:49 symfony [info] {sfWebDebugLogger} Factories 16.57 ms (1)
+Oct 02 22:54:49 symfony [info] {sfWebDebugLogger} Action "game/index" 3.55 ms (1)
+Oct 02 22:54:49 symfony [info] {sfWebResponse} Send content (118 o)
+Oct 02 22:54:49 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 22:54:49 symfony [info] {myUser} Flag old flash messages ("result")
+Oct 02 22:54:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:54:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:54:49 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 22:54:49 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 22:54:49 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:54:49 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:54:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 22:54:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:54:49 symfony [info] {sfWebDebugLogger} Configuration 0.54 ms (9)
+Oct 02 22:54:49 symfony [info] {sfWebDebugLogger} Factories 16.42 ms (1)
+Oct 02 22:54:49 symfony [info] {sfWebDebugLogger} Action "game/result" 0.07 ms (1)
+Oct 02 22:54:49 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 5.55 ms (1)
+Oct 02 22:54:49 symfony [info] {sfWebResponse} Send content (30485 o)
+Oct 02 22:54:49 symfony [info] {myUser} Remove old flash messages ("result")
+Oct 02 22:56:32 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 22:56:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:56:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:56:33 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 22:56:33 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 22:56:33 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:56:33 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:56:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 22:56:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:56:33 symfony [info] {sfWebDebugLogger} Configuration 0.61 ms (9)
+Oct 02 22:56:33 symfony [info] {sfWebDebugLogger} Factories 19.60 ms (1)
+Oct 02 22:56:33 symfony [info] {sfWebDebugLogger} Action "game/index" 3.01 ms (1)
+Oct 02 22:56:33 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 6.89 ms (1)
+Oct 02 22:56:33 symfony [info] {sfWebResponse} Send content (27869 o)
+Oct 02 22:56:34 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 22:56:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:56:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:56:34 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 22:56:34 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game/result"
+Oct 02 22:56:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 22:56:34 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game/result"
+Oct 02 22:56:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:56:34 symfony [info] {sfWebDebugLogger} Configuration 0.67 ms (8)
+Oct 02 22:56:34 symfony [info] {sfWebDebugLogger} Factories 17.79 ms (1)
+Oct 02 22:56:34 symfony [info] {sfWebDebugLogger} Action "game/index" 3.92 ms (1)
+Oct 02 22:56:34 symfony [info] {sfWebResponse} Send content (118 o)
+Oct 02 22:56:34 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 22:56:34 symfony [info] {myUser} Flag old flash messages ("result")
+Oct 02 22:56:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:56:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:56:34 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 22:56:34 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 22:56:34 symfony [notice] {sfWebDebugLogger}  Notice at /var/www/greed/lib/vendor/symfony/lib/escaper/sfOutputEscaperArrayDecorator.class.php on line 119 (Undefined index: result)
+Oct 02 22:56:34 symfony [notice] {sfWebDebugLogger}  Notice at /var/www/greed/lib/vendor/symfony/lib/escaper/sfOutputEscaperArrayDecorator.class.php on line 119 (Undefined index: result)
+Oct 02 22:56:34 symfony [notice] {sfWebDebugLogger}  Notice at /var/www/greed/lib/vendor/symfony/lib/escaper/sfOutputEscaperArrayDecorator.class.php on line 119 (Undefined index: result)
+Oct 02 22:56:34 symfony [notice] {sfWebDebugLogger}  Notice at /var/www/greed/lib/vendor/symfony/lib/escaper/sfOutputEscaperArrayDecorator.class.php on line 119 (Undefined index: result)
+Oct 02 22:56:34 symfony [notice] {sfWebDebugLogger}  Notice at /var/www/greed/lib/vendor/symfony/lib/escaper/sfOutputEscaperArrayDecorator.class.php on line 119 (Undefined index: result)
+Oct 02 22:56:34 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:56:34 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:56:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 22:56:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:56:34 symfony [info] {sfWebDebugLogger} Configuration 0.54 ms (9)
+Oct 02 22:56:34 symfony [info] {sfWebDebugLogger} Factories 16.67 ms (1)
+Oct 02 22:56:34 symfony [info] {sfWebDebugLogger} Action "game/result" 0.07 ms (1)
+Oct 02 22:56:34 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 5.78 ms (1)
+Oct 02 22:56:34 symfony [info] {sfWebResponse} Send content (31626 o)
+Oct 02 22:56:34 symfony [info] {myUser} Remove old flash messages ("result")
+Oct 02 22:57:02 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 22:57:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:57:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:57:02 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 22:57:02 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game"
+Oct 02 22:57:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 22:57:02 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game"
+Oct 02 22:57:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:57:02 symfony [info] {sfWebDebugLogger} Configuration 0.61 ms (8)
+Oct 02 22:57:02 symfony [info] {sfWebDebugLogger} Factories 16.80 ms (1)
+Oct 02 22:57:02 symfony [info] {sfWebDebugLogger} Action "game/result" 0.58 ms (1)
+Oct 02 22:57:02 symfony [info] {sfWebResponse} Send content (111 o)
+Oct 02 22:57:02 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 22:57:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:57:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:57:02 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 22:57:02 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 22:57:02 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:57:02 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:57:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 22:57:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:57:02 symfony [info] {sfWebDebugLogger} Configuration 0.64 ms (9)
+Oct 02 22:57:02 symfony [info] {sfWebDebugLogger} Factories 18.92 ms (1)
+Oct 02 22:57:02 symfony [info] {sfWebDebugLogger} Action "game/index" 2.79 ms (1)
+Oct 02 22:57:02 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 6.86 ms (1)
+Oct 02 22:57:02 symfony [info] {sfWebResponse} Send content (27901 o)
+Oct 02 22:57:05 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 22:57:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:57:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:57:05 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 22:57:05 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game/result"
+Oct 02 22:57:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 22:57:05 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game/result"
+Oct 02 22:57:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:57:05 symfony [info] {sfWebDebugLogger} Configuration 0.44 ms (8)
+Oct 02 22:57:05 symfony [info] {sfWebDebugLogger} Factories 17.35 ms (1)
+Oct 02 22:57:05 symfony [info] {sfWebDebugLogger} Action "game/index" 3.65 ms (1)
+Oct 02 22:57:05 symfony [info] {sfWebResponse} Send content (118 o)
+Oct 02 22:57:05 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 22:57:05 symfony [info] {myUser} Flag old flash messages ("result")
+Oct 02 22:57:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:57:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:57:05 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 22:57:05 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 22:57:05 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:57:05 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:57:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 22:57:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:57:05 symfony [info] {sfWebDebugLogger} Configuration 0.80 ms (9)
+Oct 02 22:57:05 symfony [info] {sfWebDebugLogger} Factories 15.67 ms (1)
+Oct 02 22:57:05 symfony [info] {sfWebDebugLogger} Action "game/result" 0.11 ms (1)
+Oct 02 22:57:05 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 7.10 ms (1)
+Oct 02 22:57:05 symfony [info] {sfWebResponse} Send content (30966 o)
+Oct 02 22:57:05 symfony [info] {myUser} Remove old flash messages ("result")
+Oct 02 22:59:18 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 22:59:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:59:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:59:18 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 22:59:18 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game"
+Oct 02 22:59:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 22:59:18 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game"
+Oct 02 22:59:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:59:18 symfony [info] {sfWebDebugLogger} Configuration 0.58 ms (8)
+Oct 02 22:59:18 symfony [info] {sfWebDebugLogger} Factories 20.59 ms (1)
+Oct 02 22:59:18 symfony [info] {sfWebDebugLogger} Action "game/result" 0.51 ms (1)
+Oct 02 22:59:18 symfony [info] {sfWebResponse} Send content (111 o)
+Oct 02 22:59:18 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 22:59:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:59:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:59:18 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 22:59:18 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 22:59:18 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:59:18 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:59:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 22:59:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:59:18 symfony [info] {sfWebDebugLogger} Configuration 0.67 ms (9)
+Oct 02 22:59:18 symfony [info] {sfWebDebugLogger} Factories 20.07 ms (1)
+Oct 02 22:59:18 symfony [info] {sfWebDebugLogger} Action "game/index" 3.38 ms (1)
+Oct 02 22:59:18 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 6.43 ms (1)
+Oct 02 22:59:18 symfony [info] {sfWebResponse} Send content (27901 o)
+Oct 02 22:59:21 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 22:59:21 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:59:21 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:59:21 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 22:59:21 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game/result"
+Oct 02 22:59:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 22:59:21 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game/result"
+Oct 02 22:59:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:59:21 symfony [info] {sfWebDebugLogger} Configuration 0.61 ms (8)
+Oct 02 22:59:21 symfony [info] {sfWebDebugLogger} Factories 19.72 ms (1)
+Oct 02 22:59:21 symfony [info] {sfWebDebugLogger} Action "game/index" 5.24 ms (1)
+Oct 02 22:59:21 symfony [info] {sfWebResponse} Send content (118 o)
+Oct 02 22:59:21 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 22:59:21 symfony [info] {myUser} Flag old flash messages ("result")
+Oct 02 22:59:21 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 22:59:21 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 22:59:21 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 22:59:21 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 22:59:21 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:59:21 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 22:59:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 22:59:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 22:59:21 symfony [info] {sfWebDebugLogger} Configuration 0.75 ms (9)
+Oct 02 22:59:21 symfony [info] {sfWebDebugLogger} Factories 18.11 ms (1)
+Oct 02 22:59:21 symfony [info] {sfWebDebugLogger} Action "game/result" 0.07 ms (1)
+Oct 02 22:59:21 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 4.72 ms (1)
+Oct 02 22:59:21 symfony [info] {sfWebResponse} Send content (29037 o)
+Oct 02 22:59:21 symfony [info] {myUser} Remove old flash messages ("result")
+Oct 02 23:00:00 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:00:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:00:00 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:00:00 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:00:00 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game"
+Oct 02 23:00:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:00:00 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game"
+Oct 02 23:00:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:00:00 symfony [info] {sfWebDebugLogger} Configuration 0.56 ms (8)
+Oct 02 23:00:00 symfony [info] {sfWebDebugLogger} Factories 19.89 ms (1)
+Oct 02 23:00:00 symfony [info] {sfWebDebugLogger} Action "game/result" 0.55 ms (1)
+Oct 02 23:00:00 symfony [info] {sfWebResponse} Send content (111 o)
+Oct 02 23:00:00 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:00:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:00:00 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:00:00 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:00:00 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 23:00:00 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:00:00 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:00:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:00:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:00:00 symfony [info] {sfWebDebugLogger} Configuration 0.66 ms (9)
+Oct 02 23:00:00 symfony [info] {sfWebDebugLogger} Factories 18.49 ms (1)
+Oct 02 23:00:00 symfony [info] {sfWebDebugLogger} Action "game/index" 3.32 ms (1)
+Oct 02 23:00:00 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 6.94 ms (1)
+Oct 02 23:00:00 symfony [info] {sfWebResponse} Send content (27900 o)
+Oct 02 23:00:03 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:00:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:00:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:00:03 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:00:03 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:00:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:00:03 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:00:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:00:03 symfony [info] {sfWebDebugLogger} Configuration 0.67 ms (8)
+Oct 02 23:00:03 symfony [info] {sfWebDebugLogger} Factories 18.77 ms (1)
+Oct 02 23:00:03 symfony [info] {sfWebDebugLogger} Action "game/index" 5.21 ms (1)
+Oct 02 23:00:03 symfony [info] {sfWebResponse} Send content (118 o)
+Oct 02 23:00:03 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:00:03 symfony [info] {myUser} Flag old flash messages ("result")
+Oct 02 23:00:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:00:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:00:03 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:00:03 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 23:00:03 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:00:03 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:00:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:00:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:00:03 symfony [info] {sfWebDebugLogger} Configuration 0.55 ms (9)
+Oct 02 23:00:03 symfony [info] {sfWebDebugLogger} Factories 19.53 ms (1)
+Oct 02 23:00:03 symfony [info] {sfWebDebugLogger} Action "game/result" 0.13 ms (1)
+Oct 02 23:00:03 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 5.27 ms (1)
+Oct 02 23:00:03 symfony [info] {sfWebResponse} Send content (29104 o)
+Oct 02 23:00:03 symfony [info] {myUser} Remove old flash messages ("result")
+Oct 02 23:00:36 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:00:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:00:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:00:36 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:00:36 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game"
+Oct 02 23:00:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:00:36 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game"
+Oct 02 23:00:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:00:36 symfony [info] {sfWebDebugLogger} Configuration 0.64 ms (8)
+Oct 02 23:00:36 symfony [info] {sfWebDebugLogger} Factories 17.39 ms (1)
+Oct 02 23:00:36 symfony [info] {sfWebDebugLogger} Action "game/result" 0.73 ms (1)
+Oct 02 23:00:36 symfony [info] {sfWebResponse} Send content (111 o)
+Oct 02 23:00:36 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:00:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:00:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:00:36 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:00:36 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 23:00:36 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:00:36 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:00:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:00:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:00:36 symfony [info] {sfWebDebugLogger} Configuration 0.65 ms (9)
+Oct 02 23:00:36 symfony [info] {sfWebDebugLogger} Factories 21.31 ms (1)
+Oct 02 23:00:36 symfony [info] {sfWebDebugLogger} Action "game/index" 3.02 ms (1)
+Oct 02 23:00:36 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 6.22 ms (1)
+Oct 02 23:00:36 symfony [info] {sfWebResponse} Send content (27901 o)
+Oct 02 23:00:39 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:00:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:00:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:00:39 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:01:15 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:01:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:01:15 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:01:15 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:01:45 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:01:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:01:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:01:45 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:02:04 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:02:04 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:02:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:02:04 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:02:04 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:02:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:02:04 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:02:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:02:04 symfony [info] {sfWebDebugLogger} Configuration 0.63 ms (8)
+Oct 02 23:02:04 symfony [info] {sfWebDebugLogger} Factories 18.09 ms (1)
+Oct 02 23:02:04 symfony [info] {sfWebDebugLogger} Action "game/index" 3.97 ms (1)
+Oct 02 23:02:04 symfony [info] {sfWebResponse} Send content (118 o)
+Oct 02 23:02:04 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:02:04 symfony [info] {myUser} Flag old flash messages ("result")
+Oct 02 23:02:04 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:02:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:02:04 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:02:04 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 23:02:04 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:02:04 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:02:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:02:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:02:04 symfony [info] {sfWebDebugLogger} Configuration 0.62 ms (9)
+Oct 02 23:02:04 symfony [info] {sfWebDebugLogger} Factories 18.56 ms (1)
+Oct 02 23:02:04 symfony [info] {sfWebDebugLogger} Action "game/result" 0.08 ms (1)
+Oct 02 23:02:04 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 5.39 ms (1)
+Oct 02 23:02:04 symfony [info] {sfWebResponse} Send content (28949 o)
+Oct 02 23:02:04 symfony [info] {myUser} Remove old flash messages ("result")
+Oct 02 23:31:33 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:31:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:31:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:31:33 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:31:33 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game"
+Oct 02 23:31:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:31:33 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game"
+Oct 02 23:31:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:31:33 symfony [info] {sfWebDebugLogger} Configuration 0.54 ms (8)
+Oct 02 23:31:33 symfony [info] {sfWebDebugLogger} Factories 16.58 ms (1)
+Oct 02 23:31:33 symfony [info] {sfWebDebugLogger} Action "game/result" 0.44 ms (1)
+Oct 02 23:31:33 symfony [info] {sfWebResponse} Send content (111 o)
+Oct 02 23:31:33 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:31:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:31:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:31:33 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:31:33 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 23:31:33 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:31:33 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:31:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:31:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:31:33 symfony [info] {sfWebDebugLogger} Configuration 0.70 ms (9)
+Oct 02 23:31:33 symfony [info] {sfWebDebugLogger} Factories 17.28 ms (1)
+Oct 02 23:31:33 symfony [info] {sfWebDebugLogger} Action "game/index" 3.25 ms (1)
+Oct 02 23:31:33 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 6.86 ms (1)
+Oct 02 23:31:33 symfony [info] {sfWebResponse} Send content (27907 o)
+Oct 02 23:31:36 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:31:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:31:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:31:36 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:31:36 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:31:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:31:36 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:31:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:31:36 symfony [info] {sfWebDebugLogger} Configuration 0.52 ms (8)
+Oct 02 23:31:36 symfony [info] {sfWebDebugLogger} Factories 16.74 ms (1)
+Oct 02 23:31:36 symfony [info] {sfWebDebugLogger} Action "game/index" 3.47 ms (1)
+Oct 02 23:31:36 symfony [info] {sfWebResponse} Send content (118 o)
+Oct 02 23:31:36 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:31:36 symfony [info] {myUser} Flag old flash messages ("result")
+Oct 02 23:31:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:31:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:31:36 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:31:36 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 23:31:36 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:31:36 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:31:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:31:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:31:36 symfony [info] {sfWebDebugLogger} Configuration 0.57 ms (9)
+Oct 02 23:31:36 symfony [info] {sfWebDebugLogger} Factories 16.39 ms (1)
+Oct 02 23:31:36 symfony [info] {sfWebDebugLogger} Action "game/result" 0.08 ms (1)
+Oct 02 23:31:36 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 5.21 ms (1)
+Oct 02 23:31:36 symfony [info] {sfWebResponse} Send content (29001 o)
+Oct 02 23:31:36 symfony [info] {myUser} Remove old flash messages ("result")
+Oct 02 23:31:39 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:31:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:31:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:31:39 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:31:39 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 23:31:39 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:31:39 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:31:39 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:31:39 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:31:39 symfony [info] {sfWebDebugLogger} Configuration 0.62 ms (9)
+Oct 02 23:31:39 symfony [info] {sfWebDebugLogger} Factories 17.27 ms (1)
+Oct 02 23:31:39 symfony [info] {sfWebDebugLogger} Action "game/index" 2.93 ms (1)
+Oct 02 23:31:39 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 6.08 ms (1)
+Oct 02 23:31:39 symfony [info] {sfWebResponse} Send content (27951 o)
+Oct 02 23:31:43 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:31:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:31:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:31:43 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:31:43 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:31:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:31:43 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:31:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:31:43 symfony [info] {sfWebDebugLogger} Configuration 0.50 ms (8)
+Oct 02 23:31:43 symfony [info] {sfWebDebugLogger} Factories 18.07 ms (1)
+Oct 02 23:31:43 symfony [info] {sfWebDebugLogger} Action "game/index" 3.66 ms (1)
+Oct 02 23:31:43 symfony [info] {sfWebResponse} Send content (118 o)
+Oct 02 23:31:43 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:31:43 symfony [info] {myUser} Flag old flash messages ("result")
+Oct 02 23:31:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:31:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:31:43 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:31:43 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 23:31:43 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:31:43 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:31:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:31:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:31:43 symfony [info] {sfWebDebugLogger} Configuration 0.57 ms (9)
+Oct 02 23:31:43 symfony [info] {sfWebDebugLogger} Factories 18.03 ms (1)
+Oct 02 23:31:43 symfony [info] {sfWebDebugLogger} Action "game/result" 0.07 ms (1)
+Oct 02 23:31:43 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 4.87 ms (1)
+Oct 02 23:31:43 symfony [info] {sfWebResponse} Send content (29007 o)
+Oct 02 23:31:43 symfony [info] {myUser} Remove old flash messages ("result")
+Oct 02 23:34:39 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:34:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:34:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:34:39 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:34:39 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game"
+Oct 02 23:34:39 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:34:39 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game"
+Oct 02 23:34:39 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:34:39 symfony [info] {sfWebDebugLogger} Configuration 0.74 ms (8)
+Oct 02 23:34:39 symfony [info] {sfWebDebugLogger} Factories 17.53 ms (1)
+Oct 02 23:34:39 symfony [info] {sfWebDebugLogger} Action "game/result" 0.46 ms (1)
+Oct 02 23:34:39 symfony [info] {sfWebResponse} Send content (111 o)
+Oct 02 23:34:39 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:34:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:34:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:34:39 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:34:39 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 23:34:39 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:34:39 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:34:39 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:34:39 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:34:39 symfony [info] {sfWebDebugLogger} Configuration 0.63 ms (9)
+Oct 02 23:34:39 symfony [info] {sfWebDebugLogger} Factories 16.18 ms (1)
+Oct 02 23:34:39 symfony [info] {sfWebDebugLogger} Action "game/index" 3.84 ms (1)
+Oct 02 23:34:39 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 6.61 ms (1)
+Oct 02 23:34:39 symfony [info] {sfWebResponse} Send content (27907 o)
+Oct 02 23:34:42 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:34:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:34:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:34:42 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:34:42 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:34:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:34:42 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:34:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:34:42 symfony [info] {sfWebDebugLogger} Configuration 0.63 ms (8)
+Oct 02 23:34:42 symfony [info] {sfWebDebugLogger} Factories 19.55 ms (1)
+Oct 02 23:34:42 symfony [info] {sfWebDebugLogger} Action "game/index" 3.76 ms (1)
+Oct 02 23:34:42 symfony [info] {sfWebResponse} Send content (118 o)
+Oct 02 23:34:42 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:34:42 symfony [info] {myUser} Flag old flash messages ("result")
+Oct 02 23:34:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:34:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:34:42 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:34:42 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 23:34:42 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:34:42 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:34:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:34:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:34:42 symfony [info] {sfWebDebugLogger} Configuration 0.51 ms (9)
+Oct 02 23:34:42 symfony [info] {sfWebDebugLogger} Factories 15.69 ms (1)
+Oct 02 23:34:42 symfony [info] {sfWebDebugLogger} Action "game/result" 0.07 ms (1)
+Oct 02 23:34:42 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 6.06 ms (1)
+Oct 02 23:34:42 symfony [info] {sfWebResponse} Send content (29226 o)
+Oct 02 23:34:42 symfony [info] {myUser} Remove old flash messages ("result")
+Oct 02 23:35:14 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:35:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:35:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:35:14 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:35:14 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game"
+Oct 02 23:35:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:35:14 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game"
+Oct 02 23:35:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:35:14 symfony [info] {sfWebDebugLogger} Configuration 0.51 ms (8)
+Oct 02 23:35:14 symfony [info] {sfWebDebugLogger} Factories 18.13 ms (1)
+Oct 02 23:35:14 symfony [info] {sfWebDebugLogger} Action "game/result" 0.50 ms (1)
+Oct 02 23:35:14 symfony [info] {sfWebResponse} Send content (111 o)
+Oct 02 23:35:14 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:35:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:35:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:35:14 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:35:14 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 23:35:14 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:35:14 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:35:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:35:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:35:14 symfony [info] {sfWebDebugLogger} Configuration 0.58 ms (9)
+Oct 02 23:35:14 symfony [info] {sfWebDebugLogger} Factories 16.06 ms (1)
+Oct 02 23:35:14 symfony [info] {sfWebDebugLogger} Action "game/index" 2.89 ms (1)
+Oct 02 23:35:14 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 7.52 ms (1)
+Oct 02 23:35:14 symfony [info] {sfWebResponse} Send content (27907 o)
+Oct 02 23:35:17 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:35:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:35:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:35:17 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:35:17 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:35:17 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:35:17 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:35:17 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:35:17 symfony [info] {sfWebDebugLogger} Configuration 0.52 ms (8)
+Oct 02 23:35:17 symfony [info] {sfWebDebugLogger} Factories 19.46 ms (1)
+Oct 02 23:35:17 symfony [info] {sfWebDebugLogger} Action "game/index" 3.47 ms (1)
+Oct 02 23:35:17 symfony [info] {sfWebResponse} Send content (118 o)
+Oct 02 23:35:17 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:35:17 symfony [info] {myUser} Flag old flash messages ("result")
+Oct 02 23:35:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:35:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:35:17 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:35:17 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 23:35:17 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:35:17 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:35:17 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:35:17 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:35:17 symfony [info] {sfWebDebugLogger} Configuration 0.71 ms (9)
+Oct 02 23:35:17 symfony [info] {sfWebDebugLogger} Factories 15.52 ms (1)
+Oct 02 23:35:17 symfony [info] {sfWebDebugLogger} Action "game/result" 0.12 ms (1)
+Oct 02 23:35:17 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 7.32 ms (1)
+Oct 02 23:35:17 symfony [info] {sfWebResponse} Send content (29251 o)
+Oct 02 23:35:17 symfony [info] {myUser} Remove old flash messages ("result")
+Oct 02 23:36:04 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:36:04 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:36:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:36:04 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:36:04 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game"
+Oct 02 23:36:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:36:04 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game"
+Oct 02 23:36:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:36:04 symfony [info] {sfWebDebugLogger} Configuration 0.64 ms (8)
+Oct 02 23:36:04 symfony [info] {sfWebDebugLogger} Factories 17.38 ms (1)
+Oct 02 23:36:04 symfony [info] {sfWebDebugLogger} Action "game/result" 0.45 ms (1)
+Oct 02 23:36:04 symfony [info] {sfWebResponse} Send content (111 o)
+Oct 02 23:36:04 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:36:04 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:36:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:36:04 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:36:04 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 23:36:04 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:36:04 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:36:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:36:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:36:04 symfony [info] {sfWebDebugLogger} Configuration 0.60 ms (9)
+Oct 02 23:36:04 symfony [info] {sfWebDebugLogger} Factories 18.35 ms (1)
+Oct 02 23:36:04 symfony [info] {sfWebDebugLogger} Action "game/index" 3.51 ms (1)
+Oct 02 23:36:04 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 6.01 ms (1)
+Oct 02 23:36:04 symfony [info] {sfWebResponse} Send content (27907 o)
+Oct 02 23:36:07 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:36:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:36:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:36:07 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:36:07 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:36:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:36:07 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:36:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:36:07 symfony [info] {sfWebDebugLogger} Configuration 0.46 ms (8)
+Oct 02 23:36:07 symfony [info] {sfWebDebugLogger} Factories 16.77 ms (1)
+Oct 02 23:36:07 symfony [info] {sfWebDebugLogger} Action "game/index" 3.96 ms (1)
+Oct 02 23:36:07 symfony [info] {sfWebResponse} Send content (118 o)
+Oct 02 23:36:07 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:36:07 symfony [info] {myUser} Flag old flash messages ("result")
+Oct 02 23:36:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:36:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:36:07 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:36:07 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 23:36:07 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:36:07 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:36:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:36:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:36:07 symfony [info] {sfWebDebugLogger} Configuration 0.59 ms (9)
+Oct 02 23:36:07 symfony [info] {sfWebDebugLogger} Factories 16.39 ms (1)
+Oct 02 23:36:07 symfony [info] {sfWebDebugLogger} Action "game/result" 0.08 ms (1)
+Oct 02 23:36:07 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 5.37 ms (1)
+Oct 02 23:36:07 symfony [info] {sfWebResponse} Send content (29267 o)
+Oct 02 23:36:07 symfony [info] {myUser} Remove old flash messages ("result")
+Oct 02 23:36:46 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:36:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:36:46 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:36:46 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:36:46 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game"
+Oct 02 23:36:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:36:46 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game"
+Oct 02 23:36:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:36:46 symfony [info] {sfWebDebugLogger} Configuration 0.59 ms (8)
+Oct 02 23:36:46 symfony [info] {sfWebDebugLogger} Factories 15.94 ms (1)
+Oct 02 23:36:46 symfony [info] {sfWebDebugLogger} Action "game/result" 0.42 ms (1)
+Oct 02 23:36:46 symfony [info] {sfWebResponse} Send content (111 o)
+Oct 02 23:36:46 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:36:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:36:46 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:36:46 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:36:46 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 23:36:46 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:36:46 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:36:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:36:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:36:46 symfony [info] {sfWebDebugLogger} Configuration 0.58 ms (9)
+Oct 02 23:36:46 symfony [info] {sfWebDebugLogger} Factories 16.65 ms (1)
+Oct 02 23:36:46 symfony [info] {sfWebDebugLogger} Action "game/index" 3.00 ms (1)
+Oct 02 23:36:46 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 6.32 ms (1)
+Oct 02 23:36:46 symfony [info] {sfWebResponse} Send content (27907 o)
+Oct 02 23:36:48 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:36:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:36:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:36:48 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:36:48 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:36:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:36:48 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:36:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:36:48 symfony [info] {sfWebDebugLogger} Configuration 0.53 ms (8)
+Oct 02 23:36:48 symfony [info] {sfWebDebugLogger} Factories 16.58 ms (1)
+Oct 02 23:36:48 symfony [info] {sfWebDebugLogger} Action "game/index" 3.48 ms (1)
+Oct 02 23:36:48 symfony [info] {sfWebResponse} Send content (118 o)
+Oct 02 23:36:48 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:36:48 symfony [info] {myUser} Flag old flash messages ("result")
+Oct 02 23:36:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:36:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:36:48 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:36:48 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 23:36:48 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:36:48 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:36:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:36:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:36:48 symfony [info] {sfWebDebugLogger} Configuration 0.54 ms (9)
+Oct 02 23:36:48 symfony [info] {sfWebDebugLogger} Factories 16.48 ms (1)
+Oct 02 23:36:48 symfony [info] {sfWebDebugLogger} Action "game/result" 0.07 ms (1)
+Oct 02 23:36:48 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 4.73 ms (1)
+Oct 02 23:36:48 symfony [info] {sfWebResponse} Send content (29264 o)
+Oct 02 23:36:48 symfony [info] {myUser} Remove old flash messages ("result")
+Oct 02 23:37:03 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:37:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:37:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:37:03 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:37:03 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game"
+Oct 02 23:37:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:37:03 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game"
+Oct 02 23:37:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:37:03 symfony [info] {sfWebDebugLogger} Configuration 0.58 ms (8)
+Oct 02 23:37:03 symfony [info] {sfWebDebugLogger} Factories 18.42 ms (1)
+Oct 02 23:37:03 symfony [info] {sfWebDebugLogger} Action "game/result" 0.43 ms (1)
+Oct 02 23:37:03 symfony [info] {sfWebResponse} Send content (111 o)
+Oct 02 23:37:03 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:37:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:37:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:37:03 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:37:03 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 23:37:03 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:37:03 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:37:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:37:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:37:03 symfony [info] {sfWebDebugLogger} Configuration 0.59 ms (9)
+Oct 02 23:37:03 symfony [info] {sfWebDebugLogger} Factories 17.35 ms (1)
+Oct 02 23:37:03 symfony [info] {sfWebDebugLogger} Action "game/index" 2.90 ms (1)
+Oct 02 23:37:03 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 6.38 ms (1)
+Oct 02 23:37:03 symfony [info] {sfWebResponse} Send content (27907 o)
+Oct 02 23:37:06 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:37:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:37:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:37:06 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:37:06 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:37:06 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:37:06 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:37:06 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:37:06 symfony [info] {sfWebDebugLogger} Configuration 0.50 ms (8)
+Oct 02 23:37:06 symfony [info] {sfWebDebugLogger} Factories 16.37 ms (1)
+Oct 02 23:37:06 symfony [info] {sfWebDebugLogger} Action "game/index" 3.52 ms (1)
+Oct 02 23:37:06 symfony [info] {sfWebResponse} Send content (118 o)
+Oct 02 23:37:06 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:37:06 symfony [info] {myUser} Flag old flash messages ("result")
+Oct 02 23:37:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:37:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:37:06 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:37:06 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 23:37:06 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:37:06 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:37:06 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:37:06 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:37:06 symfony [info] {sfWebDebugLogger} Configuration 0.57 ms (9)
+Oct 02 23:37:06 symfony [info] {sfWebDebugLogger} Factories 18.93 ms (1)
+Oct 02 23:37:06 symfony [info] {sfWebDebugLogger} Action "game/result" 0.07 ms (1)
+Oct 02 23:37:06 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 4.90 ms (1)
+Oct 02 23:37:06 symfony [info] {sfWebResponse} Send content (29270 o)
+Oct 02 23:37:06 symfony [info] {myUser} Remove old flash messages ("result")
+Oct 02 23:37:25 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:37:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:37:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:37:25 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:37:25 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game"
+Oct 02 23:37:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:37:25 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game"
+Oct 02 23:37:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:37:25 symfony [info] {sfWebDebugLogger} Configuration 0.48 ms (8)
+Oct 02 23:37:25 symfony [info] {sfWebDebugLogger} Factories 17.10 ms (1)
+Oct 02 23:37:25 symfony [info] {sfWebDebugLogger} Action "game/result" 0.48 ms (1)
+Oct 02 23:37:25 symfony [info] {sfWebResponse} Send content (111 o)
+Oct 02 23:37:25 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:37:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:37:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:37:25 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:37:25 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 23:37:25 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:37:25 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:37:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:37:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:37:25 symfony [info] {sfWebDebugLogger} Configuration 0.64 ms (9)
+Oct 02 23:37:25 symfony [info] {sfWebDebugLogger} Factories 17.25 ms (1)
+Oct 02 23:37:25 symfony [info] {sfWebDebugLogger} Action "game/index" 3.41 ms (1)
+Oct 02 23:37:25 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 6.65 ms (1)
+Oct 02 23:37:25 symfony [info] {sfWebResponse} Send content (27907 o)
+Oct 02 23:37:28 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:37:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:37:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:37:28 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:37:28 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:37:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:37:28 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game/result"
+Oct 02 23:37:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:37:28 symfony [info] {sfWebDebugLogger} Configuration 0.76 ms (8)
+Oct 02 23:37:28 symfony [info] {sfWebDebugLogger} Factories 16.47 ms (1)
+Oct 02 23:37:28 symfony [info] {sfWebDebugLogger} Action "game/index" 5.41 ms (1)
+Oct 02 23:37:28 symfony [info] {sfWebResponse} Send content (118 o)
+Oct 02 23:37:28 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:37:28 symfony [info] {myUser} Flag old flash messages ("result")
+Oct 02 23:37:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:37:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:37:28 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:37:28 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/resultSuccess.php"
+Oct 02 23:37:28 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:37:28 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:37:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:37:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:37:28 symfony [info] {sfWebDebugLogger} Configuration 0.54 ms (9)
+Oct 02 23:37:28 symfony [info] {sfWebDebugLogger} Factories 18.77 ms (1)
+Oct 02 23:37:28 symfony [info] {sfWebDebugLogger} Action "game/result" 0.07 ms (1)
+Oct 02 23:37:28 symfony [info] {sfWebDebugLogger} View "Success" for "game/result" 4.78 ms (1)
+Oct 02 23:37:28 symfony [info] {sfWebResponse} Send content (29280 o)
+Oct 02 23:37:28 symfony [info] {myUser} Remove old flash messages ("result")
+Oct 02 23:38:22 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/result with parameters array (  'module' => 'game',  'action' => 'result',)
+Oct 02 23:38:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:38:22 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:38:22 symfony [info] {gameActions} Call "gameActions->executeResult()"
+Oct 02 23:38:22 symfony [info] {sfFrontWebController} Redirect to "http://greed.local/frontend_dev.php/game"
+Oct 02 23:38:22 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Oct 02 23:38:22 symfony [info] {sfWebResponse} Send header "Location: http://greed.local/frontend_dev.php/game"
+Oct 02 23:38:22 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:38:22 symfony [info] {sfWebDebugLogger} Configuration 0.54 ms (8)
+Oct 02 23:38:22 symfony [info] {sfWebDebugLogger} Factories 15.83 ms (1)
+Oct 02 23:38:22 symfony [info] {sfWebDebugLogger} Action "game/result" 0.45 ms (1)
+Oct 02 23:38:22 symfony [info] {sfWebResponse} Send content (111 o)
+Oct 02 23:38:22 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:38:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:38:22 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:38:22 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:38:22 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 23:38:22 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:38:22 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:38:22 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:38:22 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:38:22 symfony [info] {sfWebDebugLogger} Configuration 0.57 ms (9)
+Oct 02 23:38:22 symfony [info] {sfWebDebugLogger} Factories 16.43 ms (1)
+Oct 02 23:38:22 symfony [info] {sfWebDebugLogger} Action "game/index" 2.85 ms (1)
+Oct 02 23:38:22 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 5.90 ms (1)
+Oct 02 23:38:22 symfony [info] {sfWebResponse} Send content (27906 o)
+Oct 02 23:38:31 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /game/index with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:38:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:38:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:38:31 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:39:26 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 02 23:39:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 23:39:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 02 23:39:26 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 02 23:39:26 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 02 23:39:26 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:39:26 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 02 23:39:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 23:39:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 23:39:26 symfony [info] {sfWebDebugLogger} Configuration 0.57 ms (9)
+Oct 02 23:39:26 symfony [info] {sfWebDebugLogger} Factories 15.81 ms (1)
+Oct 02 23:39:26 symfony [info] {sfWebDebugLogger} Action "game/index" 2.90 ms (1)
+Oct 02 23:39:26 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 5.91 ms (1)
+Oct 02 23:39:26 symfony [info] {sfWebResponse} Send content (27875 o)
+Oct 03 14:27:40 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /game with parameters array (  'module' => 'game',  'action' => 'index',)
+Oct 03 14:27:40 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 03 14:27:40 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 03 14:27:40 symfony [info] {gameActions} Call "gameActions->executeIndex()"
+Oct 03 14:27:40 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/modules/game/templates/indexSuccess.php"
+Oct 03 14:27:40 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 03 14:27:40 symfony [info] {sfPHPView} Render "/var/www/greed/apps/frontend/templates/layout.php"
+Oct 03 14:27:40 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 03 14:27:40 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 03 14:27:40 symfony [info] {sfWebDebugLogger} Configuration 0.92 ms (9)
+Oct 03 14:27:40 symfony [info] {sfWebDebugLogger} Factories 159.85 ms (1)
+Oct 03 14:27:40 symfony [info] {sfWebDebugLogger} Action "game/index" 15.47 ms (1)
+Oct 03 14:27:40 symfony [info] {sfWebDebugLogger} View "Success" for "game/index" 70.53 ms (1)
+Oct 03 14:27:40 symfony [info] {sfWebResponse} Send content (27453 o)
+Oct 03 14:27:45 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Oct 03 14:27:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 03 14:27:46 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 03 14:27:46 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Oct 03 14:27:46 symfony [info] {sfPHPView} Render "/var/www/greed/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Oct 03 14:27:46 symfony [info] {sfPHPView} Decorate content with "/var/www/greed/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Oct 03 14:27:46 symfony [info] {sfPHPView} Render "/var/www/greed/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Oct 03 14:27:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 03 14:27:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 03 14:27:46 symfony [info] {sfWebDebugLogger} Configuration 0.78 ms (9)
+Oct 03 14:27:46 symfony [info] {sfWebDebugLogger} Factories 19.59 ms (1)
+Oct 03 14:27:46 symfony [info] {sfWebDebugLogger} Action "default/index" 0.06 ms (1)
+Oct 03 14:27:46 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 11.62 ms (1)
+Oct 03 14:27:46 symfony [info] {sfWebResponse} Send content (28235 o)
