@@ -25,7 +25,9 @@ To install Greed game , you will need PHP 5.2+ and a web server (example: Apache
 3) Installation
 ----------------
 
-Unpack the  game.tar.gz inside your web dir
+download the compressed game from https://github.com/mo-abdelmohsen/dice-game/zipball/v1.0
+
+Unpack the archive inside your web dir
 
 use command line to run this command while you are inside the project dir
 
