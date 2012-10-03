@@ -40,12 +40,12 @@ it is better but not mandatory to add a new virtual host to your web server conf
 4) Use game
 ------------
 
-Open your web browser and got to URL http://localhost/greed/web
-Now you can enter number of rolls and click play
-you have to wait to see your score
-Great now we have a winner you can go back and roll your dices again
-you can play with your friend
-enjoy...
+* Open your web browser and got to URL http://localhost/greed/web
+* Now you can enter number of rolls and click play
+* you have to wait to see your score
+* Great now we have a winner you can go back and roll your dices again
+* you can play with your friend
+* enjoy...
 
 
 5) Additional Help
